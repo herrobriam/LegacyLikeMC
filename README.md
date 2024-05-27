@@ -1,4 +1,3 @@
 # LegacyLikeMC
-![legacylikemc](https://github.com/justawhitecat/LegacyLikeMC/assets/131239470/49e7797f-0851-4da2-8b49-5ba2bfff70d6)
-
+![legacylikemc](https://github.com/justawhitecat/LegacyLikeMC/assets/131239470/f3cbebda-f560-493e-a79d-e1dc99590438)
 Make the game look like the Legacy Editions of Minecraft

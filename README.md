@@ -1,2 +1,2 @@
-# Beta-1.20.1
+# BetaLikeMC
 a multimc instance that makes the game look like older minecraft
